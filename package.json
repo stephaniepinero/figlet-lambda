@@ -1,0 +1,11 @@
+{
+  "name": "figlet-lambda",
+  "version": "1.0.0",
+  "description": "Lambda for testing figlet layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephanie Piñero",
+  "license": "MIT"
+}
